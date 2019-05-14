@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+#beispiel {
+  color: red;
+  font-weight: bold;
+}
+
+#beispiel div {
+  color: green;
+}
